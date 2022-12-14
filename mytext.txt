@@ -1,1 +1,3 @@
-New content
+New small content.
+
+*Another* new content line.
